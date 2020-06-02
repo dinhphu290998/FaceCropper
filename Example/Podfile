@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'FaceCropper_Example' do
+  pod 'FaceCropper', :path => '../'
+end
